@@ -1,0 +1,3 @@
+i00000002.dcd filter=lfs diff=lfs merge=lfs -text
+i00000000.pdb filter=lfs diff=lfs merge=lfs -text
+i00000001.pdb filter=lfs diff=lfs merge=lfs -text
